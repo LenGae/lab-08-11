@@ -75,7 +75,27 @@ namespace WpfApp8.ViewModels
             (obj) => obj is User
         );
 
+        public MyCommand RegCommand => new(
+            (obj) =>
+            {
+                if (obj is Auth addUserWindow)
+                {
+                    string email = addUserWindow.EmailTextBox.Text.Trim();
+                    string fullName = addUserWindow.FullNameTextBox.Text.Trim();
+                    string phone = addUserWindow.PhoneTextBox.Text.Trim();
+                    string password = addUserWindow.PasswordBox.Password.Trim();
 
+                    string passwordHash = password;
+
+                    MyCommand.AddUser(email, passwordHash, fullName, phone, role: 1, isActive: true);
+
+                    MessageBox.Show("Вы успешно зарегистрировались!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                    addUserWindow.Close();
+                }
+            },
+            (obj) => true
+        );
         public ViewModel()
         {
             using var context = new LeymanSe2307g1CourseworkContext();

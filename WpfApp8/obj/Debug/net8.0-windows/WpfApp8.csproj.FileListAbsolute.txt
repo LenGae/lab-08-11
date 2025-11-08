@@ -150,3 +150,9 @@ C:\Users\LeymanSE\source\repos\WpfApp8\WpfApp8\obj\Debug\net8.0-windows\AddUser.
 C:\Users\LeymanSE\source\repos\WpfApp8\WpfApp8\obj\Debug\net8.0-windows\AddUser.baml
 C:\Users\LeymanSE\source\repos\WpfApp8\WpfApp8\obj\Debug\net8.0-windows\Users.g.cs
 C:\Users\LeymanSE\source\repos\WpfApp8\WpfApp8\obj\Debug\net8.0-windows\Users.baml
+C:\Users\LeymanSE\source\repos\WpfApp8\WpfApp8\obj\Debug\net8.0-windows\Auth.g.cs
+C:\Users\LeymanSE\source\repos\WpfApp8\WpfApp8\obj\Debug\net8.0-windows\Auth.baml
+C:\Users\LeymanSE\source\repos\WpfApp8\WpfApp8\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\LeymanSE\source\repos\WpfApp8\WpfApp8\obj\Debug\net8.0-windows\Login.baml
+C:\Users\LeymanSE\source\repos\WpfApp8\WpfApp8\obj\Debug\net8.0-windows\Menu.g.cs
+C:\Users\LeymanSE\source\repos\WpfApp8\WpfApp8\obj\Debug\net8.0-windows\Menu.baml

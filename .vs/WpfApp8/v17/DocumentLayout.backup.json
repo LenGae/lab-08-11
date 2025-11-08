@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\auth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\auth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\auth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\auth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\commands\\mycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\commands\\mycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +39,24 @@
       "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\commands\\mycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\commands\\mycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\users.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\users.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\models\\entities\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\models\\entities\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\models\\entities\\leymanse2307g1courseworkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\models\\entities\\leymanse2307g1courseworkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|c:\\users\\leymanse\\source\\repos\\wpfapp8\\wpfapp8\\models\\entities\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F50634E8-6B44-4AF6-8BAB-19AEF774D5B7}|WpfApp8\\WpfApp8.csproj|solutionrelative:wpfapp8\\models\\entities\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +78,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Menu.xaml",
+              "RelativeDocumentMoniker": "WpfApp8\\Menu.xaml",
+              "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Menu.xaml",
+              "RelativeToolTip": "WpfApp8\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T05:07:37.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp8\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Login.xaml.cs",
+              "RelativeToolTip": "WpfApp8\\Login.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:03:53.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Login.xaml",
+              "RelativeDocumentMoniker": "WpfApp8\\Login.xaml",
+              "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Login.xaml",
+              "RelativeToolTip": "WpfApp8\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T05:02:21.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Auth.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Auth.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp8\\Auth.xaml.cs",
+              "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Auth.xaml.cs",
+              "RelativeToolTip": "WpfApp8\\Auth.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:44:16.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Auth.xaml",
+              "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Auth.xaml",
+              "RelativeDocumentMoniker": "WpfApp8\\Auth.xaml",
+              "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Auth.xaml",
+              "RelativeToolTip": "WpfApp8\\Auth.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T04:39:38.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Users.xaml",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Users.xaml",
               "RelativeDocumentMoniker": "WpfApp8\\Users.xaml",
@@ -74,20 +156,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "AddUser.xaml.cs",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\AddUser.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp8\\AddUser.xaml.cs",
               "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\AddUser.xaml.cs",
               "RelativeToolTip": "WpfApp8\\AddUser.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T03:37:09.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\App.xaml",
               "RelativeDocumentMoniker": "WpfApp8\\App.xaml",
@@ -99,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "AddUser.xaml",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\AddUser.xaml",
               "RelativeDocumentMoniker": "WpfApp8\\AddUser.xaml",
@@ -111,20 +193,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "ViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\ViewModels\\ViewModel.cs",
               "RelativeDocumentMoniker": "WpfApp8\\ViewModels\\ViewModel.cs",
               "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\ViewModels\\ViewModel.cs",
               "RelativeToolTip": "WpfApp8\\ViewModels\\ViewModel.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwFkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T04:48:44.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp8\\MainWindow.xaml",
@@ -136,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Aircraft.cs",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Models\\Entities\\Aircraft.cs",
               "RelativeDocumentMoniker": "WpfApp8\\Models\\Entities\\Aircraft.cs",
@@ -155,27 +237,27 @@
               "RelativeDocumentMoniker": "WpfApp8\\Commands\\MyCommand.cs",
               "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Commands\\MyCommand.cs",
               "RelativeToolTip": "WpfApp8\\Commands\\MyCommand.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T04:40:12.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Users.xaml.cs",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Users.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp8\\Users.xaml.cs",
               "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Users.xaml.cs",
               "RelativeToolTip": "WpfApp8\\Users.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T03:46:50.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "CutOffConveter.cs",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Converters\\CutOffConveter.cs",
               "RelativeDocumentMoniker": "WpfApp8\\Converters\\CutOffConveter.cs",
@@ -183,12 +265,11 @@
               "RelativeToolTip": "WpfApp8\\Converters\\CutOffConveter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T04:52:11.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T04:52:11.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp8\\MainWindow.xaml.cs",
@@ -196,12 +277,11 @@
               "RelativeToolTip": "WpfApp8\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T02:04:25.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T02:04:25.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "LeymanSe2307g1CourseworkContext.cs",
               "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\WpfApp8\\WpfApp8\\Models\\Entities\\LeymanSe2307g1CourseworkContext.cs",
               "RelativeDocumentMoniker": "WpfApp8\\Models\\Entities\\LeymanSe2307g1CourseworkContext.cs",
@@ -209,8 +289,7 @@
               "RelativeToolTip": "WpfApp8\\Models\\Entities\\LeymanSe2307g1CourseworkContext.cs",
               "ViewState": "AgIAABcAAAAAAAAAAIAxwCkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T04:20:58.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T04:20:58.849Z"
             }
           ]
         }

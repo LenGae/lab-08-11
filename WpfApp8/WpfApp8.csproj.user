@@ -5,6 +5,15 @@
     <Compile Update="AddUser.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Auth.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Menu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Users.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
